@@ -37,15 +37,8 @@ These word lists can be valuable for various language-related projects, includin
 - Text analysis and processing
 - Natural language processing (NLP) tasks
 
-## Contributing
+## Resources:
 
-If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+Information on The Oxford 3000: https://www.oxfordlearnersdictionaries.com/us/about/oxford3000
 
-## License
-
-[Include license information here]
-
----
-
-**Disclaimer:** These word lists are based on Oxford's compilations. Please ensure you comply with any applicable usage terms or licenses when utilizing these lists in your projects.
-
+Oxford's Learner's Dictionaries: https://www.oxfordlearnersdictionaries.com/us/wordlist
